@@ -1,0 +1,3 @@
+- Page SingIn + SignUP .
+- Page Acceuil (List des livres).
+- Page Settings(contactez nous, feedback, reporter si le livre n'est pas disponible, singOut .

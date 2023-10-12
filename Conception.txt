@@ -1,0 +1,11 @@
+- Class Book(
+ id, titre, auteur, darNachr, int nbCopies, bool reserve, bool isSafe (esq madah 7ata wa7ed wela dah wa7ed
+ w mazal makhlasech delais ta3o ya3ni sans prblm), Enum categorie, imageUrl
+).
+- Class User(
+ id, email, List<Book> booksThatITake, bool penible(maraja3ch kach ktab), List<Reservations> reservations,
+ List<Book> favorite,
+).
+- Class Reservation(
+ id, idUser, idBook, nbJours, bool terminee, DateTime jourPrendLivre
+).
